@@ -4,9 +4,8 @@ import pandas as pd
 import os
 import ast
 from datetime import datetime
-
 import numpy as np
-import seaborn as sns
+
 
 #informe a sigla do Tribunal
 sigla_Tribunal = 'tjap'
